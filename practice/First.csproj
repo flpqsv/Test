@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Scanners\" />
+    <Folder Include="Weapon\" />
+    <Folder Include="Transformers\" />
+    <Folder Include="Hero\" />
+    <Folder Include="Fight\" />
+  </ItemGroup>
+</Project>
